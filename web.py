@@ -13,7 +13,7 @@ def douyu(id):
 
 @web.route('/huya/<id>')
 def huya(id):
-    return redirect(HuYa(id).get_real_url())
+    return redirect(HuYa(id).get_real_url()['bd_flv'])
 
 
 @web.route('/bilibili/<id>')

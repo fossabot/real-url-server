@@ -30,7 +30,7 @@ python3 web.py
 
 直播间链接：
 
-http://<ip>:5867/<douyu/huya/bilibili>/<room_id>
+`http://<ip>:5867/<douyu/huya/bilibili>/<room_id>`
 
 e.g. 获取斗鱼房间号为100的直播源：
 
