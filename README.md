@@ -13,6 +13,11 @@ Real-Url-Server
 本项目依赖于[real-url](https://github.com/wbt5/real-url) ，没有[real-url](https://github.com/wbt5/real-url) 就没有本项目。
 
 ---
+目前已支持：
+- bilibili
+- douyu
+- huya
+---
 
 1. 安装依赖库
 
