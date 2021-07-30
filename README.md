@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FParksi-Software-Open-source-Org%2Freal-url-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FParksi-Software-Open-source-Org%2Freal-url-server?ref=badge_shield)
+
 Real-Url-Server
 
 ---
@@ -44,3 +46,6 @@ http://127.0.0.1:5867/douyu/100
 ```
 
 此链接可直接放入播发器内播放。
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FParksi-Software-Open-source-Org%2Freal-url-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FParksi-Software-Open-source-Org%2Freal-url-server?ref=badge_large)
